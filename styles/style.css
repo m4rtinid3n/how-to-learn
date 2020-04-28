@@ -16,6 +16,13 @@
   /* выше установили ограничения для секции */
 }
 
+.logo__place_header {
+  margin-top: 30px;
+  margin-left: 64px;
+  border: 1px solid red;
+  background-image: url(../images/logo_place_header.svg);
+  position: absolute;
+}
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
