@@ -297,7 +297,7 @@ overflow: hidden;
 
 .footer__columns {
   width: 90%;
-  height: 250px;
+  min-height: 250px;
   display: flex;
   margin: auto;
   justify-content: space-between;
