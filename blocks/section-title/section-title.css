@@ -1,4 +1,6 @@
-.section__title {
+@import url(./_theme/section-title_theme_dark.css);
+
+.section-title {
   width: 60%;
   margin-left: 20%;
   margin-right: 20%;

@@ -1,4 +1,6 @@
-.section__subtitle {
+@import url(./_theme/section-subtitle_theme_dark.css);
+
+.section-subtitle {
   width: 60%;
   margin-left: 20%;
   margin-right: 20%;

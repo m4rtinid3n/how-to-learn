@@ -2,12 +2,13 @@
   text-decoration: none;
   color: #2f80ed;
   vertical-align: top;
+  align-self: flex-start;
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  transition: background-color 1s linear 2s;
 }
 
 .khan__buy-link:hover {
   opacity: 0.6;
-  transition: background-color 1s linear 2s;
 }
